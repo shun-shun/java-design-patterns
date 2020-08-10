@@ -1,7 +1,10 @@
-package factoryMethod;
+package factoryMethod.idcard;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import factoryMethod.framework.Factory;
+import factoryMethod.framework.Product;
 
 public class IDCardFactory extends Factory {
 

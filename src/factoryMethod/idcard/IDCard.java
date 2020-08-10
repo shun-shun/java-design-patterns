@@ -1,4 +1,6 @@
-package factoryMethod;
+package factoryMethod.idcard;
+
+import factoryMethod.framework.Product;
 
 public class IDCard extends Product {
 
